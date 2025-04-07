@@ -1,0 +1,15 @@
+C:\School\Code\OOP\Pokemon_battle1\Pokemon_battle1\obj\Debug\net8.0\Pokemon_battle1.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\Code\OOP\Pokemon_battle1\Pokemon_battle1\obj\Debug\net8.0\Pokemon_battle1.AssemblyInfoInputs.cache
+C:\School\Code\OOP\Pokemon_battle1\Pokemon_battle1\obj\Debug\net8.0\Pokemon_battle1.AssemblyInfo.cs
+C:\School\Code\OOP\Pokemon_battle1\Pokemon_battle1\obj\Debug\net8.0\Pokemon_battle1.csproj.CoreCompileInputs.cache
+C:\School\Code\OOP\Pokemon_battle1\Pokemon_battle1\obj\Debug\net8.0\Pokemon_battle1.sourcelink.json
+C:\School\Code\OOP\Pokemon_battle1\Pokemon_battle1\bin\Debug\net8.0\Pokemon_battle1.exe
+C:\School\Code\OOP\Pokemon_battle1\Pokemon_battle1\bin\Debug\net8.0\Pokemon_battle1.deps.json
+C:\School\Code\OOP\Pokemon_battle1\Pokemon_battle1\bin\Debug\net8.0\Pokemon_battle1.runtimeconfig.json
+C:\School\Code\OOP\Pokemon_battle1\Pokemon_battle1\bin\Debug\net8.0\Pokemon_battle1.dll
+C:\School\Code\OOP\Pokemon_battle1\Pokemon_battle1\bin\Debug\net8.0\Pokemon_battle1.pdb
+C:\School\Code\OOP\Pokemon_battle1\Pokemon_battle1\obj\Debug\net8.0\Pokemon_battle1.dll
+C:\School\Code\OOP\Pokemon_battle1\Pokemon_battle1\obj\Debug\net8.0\refint\Pokemon_battle1.dll
+C:\School\Code\OOP\Pokemon_battle1\Pokemon_battle1\obj\Debug\net8.0\Pokemon_battle1.pdb
+C:\School\Code\OOP\Pokemon_battle1\Pokemon_battle1\obj\Debug\net8.0\Pokemon_battle1.genruntimeconfig.cache
+C:\School\Code\OOP\Pokemon_battle1\Pokemon_battle1\obj\Debug\net8.0\ref\Pokemon_battle1.dll

@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PokemonBattle2
+namespace Pokemon_battle2
 {
-    class Charmander
+    public class Charmander
     {
         public string name;
         public string strength;

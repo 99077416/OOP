@@ -5,9 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Linq;
 
-namespace Pokemon_Battle2
+namespace Pokemon_battle2
 {
-    class Trainer
+    public class Trainer
     {
         public string Name;
         public List<Pokeball> belt;

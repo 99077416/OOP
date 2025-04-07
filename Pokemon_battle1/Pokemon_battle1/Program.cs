@@ -1,2 +1,25 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+
+using Pokemon_battle1;
+
+Console.WriteLine("charmander name: ");
+string nickname = Console.ReadLine();
+
+Charmander charmander = new Charmander(nickname, "fire", "water");
+
+
+while (true)
+{
+    Console.WriteLine();
+    for (int i = 0; i < 10; i++)
+    {
+        charmander.Battlecry();
+    }
+    Console.WriteLine();
+    Console.WriteLine("new name: ");
+    nickname = Console.ReadLine();
+
+    charmander.name = nickname;
+}
+
+

@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using PokemonBattle2;
+using Pokemon_battle2;
 
-namespace PokemonBattle2
+namespace Pokemon_battle2
 {
-    class Pokeball(Charmander pokemon)
+    public class Pokeball(Charmander pokemon)
     {
         public Charmander pokemon = pokemon;
         public bool hasPokemon;

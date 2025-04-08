@@ -19,3 +19,4 @@ for  (int i = 1; i < 4; i++)
     trainer1.Addball(pokeball2);
     trainer1.Addball(pokeball3);
 }
+

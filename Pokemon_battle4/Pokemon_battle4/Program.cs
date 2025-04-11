@@ -38,3 +38,7 @@ for (int i = 1; i < 3; i++)
 }
 
 Battle.startBattle(trainer1,trainer2);
+
+Console.WriteLine(trainer1.belt.Count);
+
+

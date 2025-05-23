@@ -1,0 +1,15 @@
+C:\School\Code\OOP\Pokemon_battle3\Pokemon_battle3\bin\Debug\net8.0\Pokemon_battle3.exe
+C:\School\Code\OOP\Pokemon_battle3\Pokemon_battle3\bin\Debug\net8.0\Pokemon_battle3.deps.json
+C:\School\Code\OOP\Pokemon_battle3\Pokemon_battle3\bin\Debug\net8.0\Pokemon_battle3.runtimeconfig.json
+C:\School\Code\OOP\Pokemon_battle3\Pokemon_battle3\bin\Debug\net8.0\Pokemon_battle3.dll
+C:\School\Code\OOP\Pokemon_battle3\Pokemon_battle3\bin\Debug\net8.0\Pokemon_battle3.pdb
+C:\School\Code\OOP\Pokemon_battle3\Pokemon_battle3\obj\Debug\net8.0\Pokemon_battle3.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\Code\OOP\Pokemon_battle3\Pokemon_battle3\obj\Debug\net8.0\Pokemon_battle3.AssemblyInfoInputs.cache
+C:\School\Code\OOP\Pokemon_battle3\Pokemon_battle3\obj\Debug\net8.0\Pokemon_battle3.AssemblyInfo.cs
+C:\School\Code\OOP\Pokemon_battle3\Pokemon_battle3\obj\Debug\net8.0\Pokemon_battle3.csproj.CoreCompileInputs.cache
+C:\School\Code\OOP\Pokemon_battle3\Pokemon_battle3\obj\Debug\net8.0\Pokemon_battle3.sourcelink.json
+C:\School\Code\OOP\Pokemon_battle3\Pokemon_battle3\obj\Debug\net8.0\Pokemon_battle3.dll
+C:\School\Code\OOP\Pokemon_battle3\Pokemon_battle3\obj\Debug\net8.0\refint\Pokemon_battle3.dll
+C:\School\Code\OOP\Pokemon_battle3\Pokemon_battle3\obj\Debug\net8.0\Pokemon_battle3.pdb
+C:\School\Code\OOP\Pokemon_battle3\Pokemon_battle3\obj\Debug\net8.0\Pokemon_battle3.genruntimeconfig.cache
+C:\School\Code\OOP\Pokemon_battle3\Pokemon_battle3\obj\Debug\net8.0\ref\Pokemon_battle3.dll

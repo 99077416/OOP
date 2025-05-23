@@ -14,10 +14,42 @@ namespace Pokemon_battle4
 
         public static void startBattle(Trainer trainer1, Trainer trainer2)
         {
+
+
+
             Random random = new Random();
 
                 trainer1.belt = trainer1.belt.OrderBy(i => Guid.NewGuid()).ToList();
                 trainer2.belt = trainer2.belt.OrderBy(i => Guid.NewGuid()).ToList();
+
+            for
+                {
+                Pokemon pokemon1 = trainer1.Throw(0);
+                Pokemon pokemon2 = trainer2.Throw(0);
+
+                if (pokemon1.strength == pokemon2.weakness)
+                {
+                    Arena.addscore(1);
+
+                }
+                if (pokemon1.weakness == pokemon2.strength)
+                {
+                    Arena.addscore(2);
+
+                }
+                if (pokemon1.strength == pokemon2.strength)
+                {
+                    Arena.addscore(1);
+                    Arena.addscore(2);
+
+                }
+
+
+
+            }
+
+
+
 
             
             while (trainer1.belt.Count > 1 || trainer2.belt.Count > 1) 

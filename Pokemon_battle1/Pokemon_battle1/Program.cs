@@ -6,7 +6,8 @@ Console.WriteLine("charmander name: ");
 string nickname = Console.ReadLine();
 
 Charmander charmander = new Charmander(nickname, "fire", "water");
-
+Charmander charmander2 = new Charmander("klaasje", "grass", "water");
+Console.WriteLine(charmander2.name);
 
 while (true)
 {

@@ -18,3 +18,13 @@ C:\School\Code\OOP\Pokemon_battle2l\Pokemon_battle2\obj\Debug\net8.0\refint\Poke
 C:\School\Code\OOP\Pokemon_battle2l\Pokemon_battle2\obj\Debug\net8.0\Pokemon_battle2.pdb
 C:\School\Code\OOP\Pokemon_battle2l\Pokemon_battle2\obj\Debug\net8.0\Pokemon_battle2.genruntimeconfig.cache
 C:\School\Code\OOP\Pokemon_battle2l\Pokemon_battle2\obj\Debug\net8.0\ref\Pokemon_battle2.dll
+C:\School\Code\OOP\Pokemon_battle2\Pokemon_battle2\bin\Debug\net8.0\Pokemon_battle2.exe
+C:\School\Code\OOP\Pokemon_battle2\Pokemon_battle2\bin\Debug\net8.0\Pokemon_battle2.deps.json
+C:\School\Code\OOP\Pokemon_battle2\Pokemon_battle2\bin\Debug\net8.0\Pokemon_battle2.runtimeconfig.json
+C:\School\Code\OOP\Pokemon_battle2\Pokemon_battle2\bin\Debug\net8.0\Pokemon_battle2.dll
+C:\School\Code\OOP\Pokemon_battle2\Pokemon_battle2\bin\Debug\net8.0\Pokemon_battle2.pdb
+C:\School\Code\OOP\Pokemon_battle2\Pokemon_battle2\obj\Debug\net8.0\Pokemon_battle2.dll
+C:\School\Code\OOP\Pokemon_battle2\Pokemon_battle2\obj\Debug\net8.0\refint\Pokemon_battle2.dll
+C:\School\Code\OOP\Pokemon_battle2\Pokemon_battle2\obj\Debug\net8.0\Pokemon_battle2.pdb
+C:\School\Code\OOP\Pokemon_battle2\Pokemon_battle2\obj\Debug\net8.0\Pokemon_battle2.genruntimeconfig.cache
+C:\School\Code\OOP\Pokemon_battle2\Pokemon_battle2\obj\Debug\net8.0\ref\Pokemon_battle2.dll

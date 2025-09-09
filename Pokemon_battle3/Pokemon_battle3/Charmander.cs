@@ -9,11 +9,14 @@ namespace Pokemon_battle3
 {
     public class Charmander : Pokemon
     {
-        public Charmander(string name) : base(name)
-        { 
-            this.name = name;
-            this.strength = "fire";
-            this.weakness = "water";
+        public Charmander(string name) : base(name,"fire","water")
+        {
+
+        }
+
+        public override void Battlecry()
+        {
+            Console.WriteLine($"{this.Name}!");
         }
     }
 }

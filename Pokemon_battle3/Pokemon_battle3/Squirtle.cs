@@ -8,11 +8,13 @@ namespace Pokemon_battle3
 {
     public class Squirtle : Pokemon
     {
-        public Squirtle(string name) : base(name)
+        public Squirtle(string name) : base(name,"water","grass")
         {
-            this.name = name;
-            this.strength = "water";
-            this.weakness = "grass";
+
+        }
+        public override void Battlecry()
+        {
+            Console.WriteLine($"{this.Name}!");
         }
     }
 }

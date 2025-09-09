@@ -1,18 +1,23 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
+using Pokemon_battle4;
 
 namespace Pokemon_battle4
 {
     public class Charmander : Pokemon
     {
-        public Charmander(string name) : base(name)
+        public Charmander(string Name) : base(Name, "fire", "water")
         {
-            this.name = name;
-            this.strength = "fire";
-            this.weakness = "water";
+
+        }
+
+        public override void Battlecry()
+        {
+            Console.WriteLine($"{this.Name}!");
         }
     }
 }

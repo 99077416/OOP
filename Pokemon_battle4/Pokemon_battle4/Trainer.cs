@@ -25,14 +25,14 @@ namespace Pokemon_battle4
         public Pokemon Throw(int i)
         {
             Pokeball ball = belt[i];
-            return ball.open();
+            return ball.Open();
         }
-        public void Return(Pokemon pokemon, int i)
+        public void Return(int i)
         {
             Pokeball ball = belt[i];
             if (ball.hasPokemon == false)
             {
-                ball.close(pokemon);
+                ball.close();
             }
         }
     }

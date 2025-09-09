@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pokemon_battle4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d657887920a212bf1f6a04adfd7c62b1cde2590")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75b2fc9905a28ecc412b6af05821b62d5e4699fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pokemon_battle4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pokemon_battle4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

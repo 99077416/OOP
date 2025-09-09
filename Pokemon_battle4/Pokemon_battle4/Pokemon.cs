@@ -3,22 +3,24 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Linq;
 
 namespace Pokemon_battle4
 {
-    public class Pokemon
+    abstract public class Pokemon
     {
-        public string name;
-        public string strength;
-        public string weakness;
 
-        public Pokemon(string name)
+        public string Name;
+        public string Strength;
+        public string Weakness;
+
+        public Pokemon(string name, string strength, string weakness)
         {
-            name = name;
+            Name = name;
+            Strength = strength;
+            Weakness = weakness;
+
         }
-        public void Battlecry()
-        {
-            Console.WriteLine(name + "!");
-        }
+        public abstract void Battlecry();
     }
 }

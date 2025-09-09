@@ -18,14 +18,14 @@ namespace Pokemon_battle3
 
         public Pokemon open()
         {
-            Console.WriteLine($"{capturedPokemon.name} released");
+            Console.WriteLine($"{capturedPokemon.Name} released");
             hasPokemon = false;
             return capturedPokemon;
         }
 
         public void close(Pokemon pokemon)
         {
-            Console.WriteLine($"{pokemon.name} returned");
+            Console.WriteLine($"{pokemon.Name} returned");
             hasPokemon = true;
         }
     }

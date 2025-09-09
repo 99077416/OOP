@@ -8,11 +8,13 @@ namespace Pokemon_battle3
 {
     public class Bulbasaur : Pokemon
     {
-        public Bulbasaur(string name) : base(name)
+        public Bulbasaur(string name) : base(name,"grass","fire")
         {
-            this.name = name;
-            this.strength = "grass";
-            this.weakness = "fire";
+
+        }
+        public override void Battlecry()
+        {
+            Console.WriteLine($"{this.Name}!");
         }
     }
 }

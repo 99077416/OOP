@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\School\\Code\\OOP\\Pokemon_battle3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3FEF6B13-5EF1-4882-9C40-84A64E14EFF6}|Pokemon_battle3\\Pokemon_battle3.csproj|c:\\school\\code\\oop\\pokemon_battle3\\pokemon_battle3\\charmander.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FEF6B13-5EF1-4882-9C40-84A64E14EFF6}|Pokemon_battle3\\Pokemon_battle3.csproj|solutionrelative:pokemon_battle3\\charmander.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3FEF6B13-5EF1-4882-9C40-84A64E14EFF6}|Pokemon_battle3\\Pokemon_battle3.csproj|c:\\school\\code\\oop\\pokemon_battle3\\pokemon_battle3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3FEF6B13-5EF1-4882-9C40-84A64E14EFF6}|Pokemon_battle3\\Pokemon_battle3.csproj|solutionrelative:pokemon_battle3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3FEF6B13-5EF1-4882-9C40-84A64E14EFF6}|Pokemon_battle3\\Pokemon_battle3.csproj|c:\\school\\code\\oop\\pokemon_battle3\\pokemon_battle3\\pokeball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FEF6B13-5EF1-4882-9C40-84A64E14EFF6}|Pokemon_battle3\\Pokemon_battle3.csproj|solutionrelative:pokemon_battle3\\pokeball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3FEF6B13-5EF1-4882-9C40-84A64E14EFF6}|Pokemon_battle3\\Pokemon_battle3.csproj|c:\\school\\code\\oop\\pokemon_battle3\\pokemon_battle3\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FEF6B13-5EF1-4882-9C40-84A64E14EFF6}|Pokemon_battle3\\Pokemon_battle3.csproj|solutionrelative:pokemon_battle3\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3FEF6B13-5EF1-4882-9C40-84A64E14EFF6}|Pokemon_battle3\\Pokemon_battle3.csproj|c:\\school\\code\\oop\\pokemon_battle3\\pokemon_battle3\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,6 +13,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{3FEF6B13-5EF1-4882-9C40-84A64E14EFF6}|Pokemon_battle3\\Pokemon_battle3.csproj|c:\\school\\code\\oop\\pokemon_battle3\\pokemon_battle3\\bulbasaur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3FEF6B13-5EF1-4882-9C40-84A64E14EFF6}|Pokemon_battle3\\Pokemon_battle3.csproj|solutionrelative:pokemon_battle3\\bulbasaur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEF6B13-5EF1-4882-9C40-84A64E14EFF6}|Pokemon_battle3\\Pokemon_battle3.csproj|c:\\school\\code\\oop\\pokemon_battle3\\pokemon_battle3\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FEF6B13-5EF1-4882-9C40-84A64E14EFF6}|Pokemon_battle3\\Pokemon_battle3.csproj|solutionrelative:pokemon_battle3\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEF6B13-5EF1-4882-9C40-84A64E14EFF6}|Pokemon_battle3\\Pokemon_battle3.csproj|c:\\school\\code\\oop\\pokemon_battle3\\pokemon_battle3\\charmander.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FEF6B13-5EF1-4882-9C40-84A64E14EFF6}|Pokemon_battle3\\Pokemon_battle3.csproj|solutionrelative:pokemon_battle3\\charmander.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEF6B13-5EF1-4882-9C40-84A64E14EFF6}|Pokemon_battle3\\Pokemon_battle3.csproj|c:\\school\\code\\oop\\pokemon_battle3\\pokemon_battle3\\pokeball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FEF6B13-5EF1-4882-9C40-84A64E14EFF6}|Pokemon_battle3\\Pokemon_battle3.csproj|solutionrelative:pokemon_battle3\\pokeball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3FEF6B13-5EF1-4882-9C40-84A64E14EFF6}|Pokemon_battle3\\Pokemon_battle3.csproj|c:\\school\\code\\oop\\pokemon_battle3\\pokemon_battle3\\squirtle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,31 +38,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Trainer.cs",
               "DocumentMoniker": "C:\\School\\Code\\OOP\\Pokemon_battle3\\Pokemon_battle3\\Trainer.cs",
               "RelativeDocumentMoniker": "Pokemon_battle3\\Trainer.cs",
               "ToolTip": "C:\\School\\Code\\OOP\\Pokemon_battle3\\Pokemon_battle3\\Trainer.cs",
               "RelativeToolTip": "Pokemon_battle3\\Trainer.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAtwBwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAtwBoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T09:36:42.094Z",
-              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Pokeball.cs",
               "DocumentMoniker": "C:\\School\\Code\\OOP\\Pokemon_battle3\\Pokemon_battle3\\Pokeball.cs",
               "RelativeDocumentMoniker": "Pokemon_battle3\\Pokeball.cs",
               "ToolTip": "C:\\School\\Code\\OOP\\Pokemon_battle3\\Pokemon_battle3\\Pokeball.cs",
               "RelativeToolTip": "Pokemon_battle3\\Pokeball.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAjwBYAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAtwBsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T09:36:28.582Z",
               "EditorCaption": ""
@@ -75,20 +74,20 @@
               "RelativeDocumentMoniker": "Pokemon_battle3\\Pokemon.cs",
               "ToolTip": "C:\\School\\Code\\OOP\\Pokemon_battle3\\Pokemon_battle3\\Pokemon.cs",
               "RelativeToolTip": "Pokemon_battle3\\Pokemon.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAtwA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T09:04:47.521Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Charmander.cs",
               "DocumentMoniker": "C:\\School\\Code\\OOP\\Pokemon_battle3\\Pokemon_battle3\\Charmander.cs",
               "RelativeDocumentMoniker": "Pokemon_battle3\\Charmander.cs",
               "ToolTip": "C:\\School\\Code\\OOP\\Pokemon_battle3\\Pokemon_battle3\\Charmander.cs",
               "RelativeToolTip": "Pokemon_battle3\\Charmander.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T09:27:31.011Z",
               "EditorCaption": ""
@@ -101,33 +100,33 @@
               "RelativeDocumentMoniker": "Pokemon_battle3\\Squirtle.cs",
               "ToolTip": "C:\\School\\Code\\OOP\\Pokemon_battle3\\Pokemon_battle3\\Squirtle.cs",
               "RelativeToolTip": "Pokemon_battle3\\Squirtle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T09:33:49.023Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Bulbasaur.cs",
               "DocumentMoniker": "C:\\School\\Code\\OOP\\Pokemon_battle3\\Pokemon_battle3\\Bulbasaur.cs",
               "RelativeDocumentMoniker": "Pokemon_battle3\\Bulbasaur.cs",
               "ToolTip": "C:\\School\\Code\\OOP\\Pokemon_battle3\\Pokemon_battle3\\Bulbasaur.cs",
               "RelativeToolTip": "Pokemon_battle3\\Bulbasaur.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T09:34:01.891Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\School\\Code\\OOP\\Pokemon_battle3\\Pokemon_battle3\\Program.cs",
               "RelativeDocumentMoniker": "Pokemon_battle3\\Program.cs",
-              "ToolTip": "C:\\School\\Code\\OOP\\Pokemon_battle3\\Pokemon_battle3\\Program.cs",
-              "RelativeToolTip": "Pokemon_battle3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\School\\Code\\OOP\\Pokemon_battle3\\Pokemon_battle3\\Program.cs*",
+              "RelativeToolTip": "Pokemon_battle3\\Program.cs*",
+              "ViewState": "AgIAAB0AAAAAAAAAAAD4vyoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T08:17:42.775Z",
               "EditorCaption": ""

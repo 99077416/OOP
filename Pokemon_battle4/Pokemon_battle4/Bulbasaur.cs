@@ -3,16 +3,19 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Pokemon_battle4;
 
 namespace Pokemon_battle4
 {
     public class Bulbasaur : Pokemon
     {
-        public Bulbasaur(string name) : base(name)
+        public Bulbasaur(string name) : base(name, "grass", "fire")
         {
-            this.name = name;
-            this.strength = "grass";
-            this.weakness = "fire";
+
+        }
+        public override void Battlecry()
+        {
+            Console.WriteLine($"{this.Name}!");
         }
     }
 }

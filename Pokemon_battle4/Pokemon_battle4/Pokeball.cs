@@ -16,16 +16,16 @@ namespace Pokemon_battle4
             capturedPokemon = pokemon;
         }
 
-        public Pokemon open()
+        public Pokemon Open()
         {
-            Console.WriteLine($"{capturedPokemon.name} released");
+            Console.WriteLine($"{capturedPokemon.Name} released");
             hasPokemon = false;
             return capturedPokemon;
         }
 
-        public void close(Pokemon pokemon)
+        public void close()
         {
-            Console.WriteLine($"{pokemon.name} returned");
+            Console.WriteLine($"{capturedPokemon.Name} returned");
             hasPokemon = true;
         }
     }

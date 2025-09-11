@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\School\\Code\\OOP\\Pokemon_battle4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1AC499E6-2E83-45F8-B90D-DC39A2F29081}|Pokemon_battle4\\Pokemon_battle4.csproj|c:\\school\\code\\oop\\pokemon_battle4\\pokemon_battle4\\pokeball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AC499E6-2E83-45F8-B90D-DC39A2F29081}|Pokemon_battle4\\Pokemon_battle4.csproj|solutionrelative:pokemon_battle4\\pokeball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC499E6-2E83-45F8-B90D-DC39A2F29081}|Pokemon_battle4\\Pokemon_battle4.csproj|c:\\school\\code\\oop\\pokemon_battle4\\pokemon_battle4\\charmander.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AC499E6-2E83-45F8-B90D-DC39A2F29081}|Pokemon_battle4\\Pokemon_battle4.csproj|solutionrelative:pokemon_battle4\\charmander.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC499E6-2E83-45F8-B90D-DC39A2F29081}|Pokemon_battle4\\Pokemon_battle4.csproj|c:\\school\\code\\oop\\pokemon_battle4\\pokemon_battle4\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AC499E6-2E83-45F8-B90D-DC39A2F29081}|Pokemon_battle4\\Pokemon_battle4.csproj|solutionrelative:pokemon_battle4\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC499E6-2E83-45F8-B90D-DC39A2F29081}|Pokemon_battle4\\Pokemon_battle4.csproj|c:\\school\\code\\oop\\pokemon_battle4\\pokemon_battle4\\squirtle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AC499E6-2E83-45F8-B90D-DC39A2F29081}|Pokemon_battle4\\Pokemon_battle4.csproj|solutionrelative:pokemon_battle4\\squirtle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC499E6-2E83-45F8-B90D-DC39A2F29081}|Pokemon_battle4\\Pokemon_battle4.csproj|c:\\school\\code\\oop\\pokemon_battle4\\pokemon_battle4\\bulbasaur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AC499E6-2E83-45F8-B90D-DC39A2F29081}|Pokemon_battle4\\Pokemon_battle4.csproj|solutionrelative:pokemon_battle4\\bulbasaur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1AC499E6-2E83-45F8-B90D-DC39A2F29081}|Pokemon_battle4\\Pokemon_battle4.csproj|c:\\school\\code\\oop\\pokemon_battle4\\pokemon_battle4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AC499E6-2E83-45F8-B90D-DC39A2F29081}|Pokemon_battle4\\Pokemon_battle4.csproj|solutionrelative:pokemon_battle4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC499E6-2E83-45F8-B90D-DC39A2F29081}|Pokemon_battle4\\Pokemon_battle4.csproj|c:\\school\\code\\oop\\pokemon_battle4\\pokemon_battle4\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AC499E6-2E83-45F8-B90D-DC39A2F29081}|Pokemon_battle4\\Pokemon_battle4.csproj|solutionrelative:pokemon_battle4\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1AC499E6-2E83-45F8-B90D-DC39A2F29081}|Pokemon_battle4\\Pokemon_battle4.csproj|c:\\school\\code\\oop\\pokemon_battle4\\pokemon_battle4\\battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,30 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1AC499E6-2E83-45F8-B90D-DC39A2F29081}|Pokemon_battle4\\Pokemon_battle4.csproj|c:\\school\\code\\oop\\pokemon_battle4\\pokemon_battle4\\arena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AC499E6-2E83-45F8-B90D-DC39A2F29081}|Pokemon_battle4\\Pokemon_battle4.csproj|solutionrelative:pokemon_battle4\\arena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1AC499E6-2E83-45F8-B90D-DC39A2F29081}|Pokemon_battle4\\Pokemon_battle4.csproj|c:\\school\\code\\oop\\pokemon_battle4\\pokemon_battle4\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AC499E6-2E83-45F8-B90D-DC39A2F29081}|Pokemon_battle4\\Pokemon_battle4.csproj|solutionrelative:pokemon_battle4\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1AC499E6-2E83-45F8-B90D-DC39A2F29081}|Pokemon_battle4\\Pokemon_battle4.csproj|c:\\school\\code\\oop\\pokemon_battle4\\pokemon_battle4\\pokeball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AC499E6-2E83-45F8-B90D-DC39A2F29081}|Pokemon_battle4\\Pokemon_battle4.csproj|solutionrelative:pokemon_battle4\\pokeball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1AC499E6-2E83-45F8-B90D-DC39A2F29081}|Pokemon_battle4\\Pokemon_battle4.csproj|c:\\school\\code\\oop\\pokemon_battle4\\pokemon_battle4\\bulbasaur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AC499E6-2E83-45F8-B90D-DC39A2F29081}|Pokemon_battle4\\Pokemon_battle4.csproj|solutionrelative:pokemon_battle4\\bulbasaur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1AC499E6-2E83-45F8-B90D-DC39A2F29081}|Pokemon_battle4\\Pokemon_battle4.csproj|c:\\school\\code\\oop\\pokemon_battle4\\pokemon_battle4\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AC499E6-2E83-45F8-B90D-DC39A2F29081}|Pokemon_battle4\\Pokemon_battle4.csproj|solutionrelative:pokemon_battle4\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1AC499E6-2E83-45F8-B90D-DC39A2F29081}|Pokemon_battle4\\Pokemon_battle4.csproj|c:\\school\\code\\oop\\pokemon_battle4\\pokemon_battle4\\charmander.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AC499E6-2E83-45F8-B90D-DC39A2F29081}|Pokemon_battle4\\Pokemon_battle4.csproj|solutionrelative:pokemon_battle4\\charmander.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1AC499E6-2E83-45F8-B90D-DC39A2F29081}|Pokemon_battle4\\Pokemon_battle4.csproj|c:\\school\\code\\oop\\pokemon_battle4\\pokemon_battle4\\squirtle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AC499E6-2E83-45F8-B90D-DC39A2F29081}|Pokemon_battle4\\Pokemon_battle4.csproj|solutionrelative:pokemon_battle4\\squirtle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,120 +46,121 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Arena.cs",
               "DocumentMoniker": "C:\\School\\Code\\OOP\\Pokemon_battle4\\Pokemon_battle4\\Arena.cs",
               "RelativeDocumentMoniker": "Pokemon_battle4\\Arena.cs",
               "ToolTip": "C:\\School\\Code\\OOP\\Pokemon_battle4\\Pokemon_battle4\\Arena.cs",
               "RelativeToolTip": "Pokemon_battle4\\Arena.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAcwBQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAcwDsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T08:04:08.049Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Battle.cs",
               "DocumentMoniker": "C:\\School\\Code\\OOP\\Pokemon_battle4\\Pokemon_battle4\\Battle.cs",
               "RelativeDocumentMoniker": "Pokemon_battle4\\Battle.cs",
               "ToolTip": "C:\\School\\Code\\OOP\\Pokemon_battle4\\Pokemon_battle4\\Battle.cs",
               "RelativeToolTip": "Pokemon_battle4\\Battle.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAD4vy4AAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAA8wAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T08:03:00.803Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Trainer.cs",
               "DocumentMoniker": "C:\\School\\Code\\OOP\\Pokemon_battle4\\Pokemon_battle4\\Trainer.cs",
               "RelativeDocumentMoniker": "Pokemon_battle4\\Trainer.cs",
               "ToolTip": "C:\\School\\Code\\OOP\\Pokemon_battle4\\Pokemon_battle4\\Trainer.cs",
               "RelativeToolTip": "Pokemon_battle4\\Trainer.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAtwB4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T08:04:17.522Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Pokeball.cs",
               "DocumentMoniker": "C:\\School\\Code\\OOP\\Pokemon_battle4\\Pokemon_battle4\\Pokeball.cs",
               "RelativeDocumentMoniker": "Pokemon_battle4\\Pokeball.cs",
               "ToolTip": "C:\\School\\Code\\OOP\\Pokemon_battle4\\Pokemon_battle4\\Pokeball.cs",
               "RelativeToolTip": "Pokemon_battle4\\Pokeball.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAIA9wAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwB4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T08:04:45.092Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Pokemon.cs",
               "DocumentMoniker": "C:\\School\\Code\\OOP\\Pokemon_battle4\\Pokemon_battle4\\Pokemon.cs",
               "RelativeDocumentMoniker": "Pokemon_battle4\\Pokemon.cs",
               "ToolTip": "C:\\School\\Code\\OOP\\Pokemon_battle4\\Pokemon_battle4\\Pokemon.cs",
               "RelativeToolTip": "Pokemon_battle4\\Pokemon.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAtwAgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAEwBsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T08:02:44.72Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Charmander.cs",
               "DocumentMoniker": "C:\\School\\Code\\OOP\\Pokemon_battle4\\Pokemon_battle4\\Charmander.cs",
               "RelativeDocumentMoniker": "Pokemon_battle4\\Charmander.cs",
               "ToolTip": "C:\\School\\Code\\OOP\\Pokemon_battle4\\Pokemon_battle4\\Charmander.cs",
               "RelativeToolTip": "Pokemon_battle4\\Charmander.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAtwA8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T08:03:19.777Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "Squirtle.cs",
               "DocumentMoniker": "C:\\School\\Code\\OOP\\Pokemon_battle4\\Pokemon_battle4\\Squirtle.cs",
               "RelativeDocumentMoniker": "Pokemon_battle4\\Squirtle.cs",
               "ToolTip": "C:\\School\\Code\\OOP\\Pokemon_battle4\\Pokemon_battle4\\Squirtle.cs",
               "RelativeToolTip": "Pokemon_battle4\\Squirtle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T08:03:29.887Z"
+              "WhenOpened": "2025-04-08T08:03:29.887Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Bulbasaur.cs",
               "DocumentMoniker": "C:\\School\\Code\\OOP\\Pokemon_battle4\\Pokemon_battle4\\Bulbasaur.cs",
               "RelativeDocumentMoniker": "Pokemon_battle4\\Bulbasaur.cs",
               "ToolTip": "C:\\School\\Code\\OOP\\Pokemon_battle4\\Pokemon_battle4\\Bulbasaur.cs",
               "RelativeToolTip": "Pokemon_battle4\\Bulbasaur.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBEAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwAoAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T08:03:55.665Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\School\\Code\\OOP\\Pokemon_battle4\\Pokemon_battle4\\Program.cs",
               "RelativeDocumentMoniker": "Pokemon_battle4\\Program.cs",
               "ToolTip": "C:\\School\\Code\\OOP\\Pokemon_battle4\\Pokemon_battle4\\Program.cs",
               "RelativeToolTip": "Pokemon_battle4\\Program.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAD4vzQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T08:02:09.621Z",
               "EditorCaption": ""

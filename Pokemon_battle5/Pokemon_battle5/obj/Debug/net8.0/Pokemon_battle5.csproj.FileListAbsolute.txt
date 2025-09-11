@@ -1,0 +1,15 @@
+C:\School\Code\OOP\Pokemon_battle5\Pokemon_battle5\obj\Debug\net8.0\Pokemon_battle5.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\Code\OOP\Pokemon_battle5\Pokemon_battle5\obj\Debug\net8.0\Pokemon_battle5.AssemblyInfoInputs.cache
+C:\School\Code\OOP\Pokemon_battle5\Pokemon_battle5\obj\Debug\net8.0\Pokemon_battle5.AssemblyInfo.cs
+C:\School\Code\OOP\Pokemon_battle5\Pokemon_battle5\obj\Debug\net8.0\Pokemon_battle5.csproj.CoreCompileInputs.cache
+C:\School\Code\OOP\Pokemon_battle5\Pokemon_battle5\obj\Debug\net8.0\Pokemon_battle5.sourcelink.json
+C:\School\Code\OOP\Pokemon_battle5\Pokemon_battle5\bin\Debug\net8.0\Pokemon_battle5.exe
+C:\School\Code\OOP\Pokemon_battle5\Pokemon_battle5\bin\Debug\net8.0\Pokemon_battle5.deps.json
+C:\School\Code\OOP\Pokemon_battle5\Pokemon_battle5\bin\Debug\net8.0\Pokemon_battle5.runtimeconfig.json
+C:\School\Code\OOP\Pokemon_battle5\Pokemon_battle5\bin\Debug\net8.0\Pokemon_battle5.dll
+C:\School\Code\OOP\Pokemon_battle5\Pokemon_battle5\bin\Debug\net8.0\Pokemon_battle5.pdb
+C:\School\Code\OOP\Pokemon_battle5\Pokemon_battle5\obj\Debug\net8.0\Pokemon_battle5.dll
+C:\School\Code\OOP\Pokemon_battle5\Pokemon_battle5\obj\Debug\net8.0\refint\Pokemon_battle5.dll
+C:\School\Code\OOP\Pokemon_battle5\Pokemon_battle5\obj\Debug\net8.0\Pokemon_battle5.pdb
+C:\School\Code\OOP\Pokemon_battle5\Pokemon_battle5\obj\Debug\net8.0\Pokemon_battle5.genruntimeconfig.cache
+C:\School\Code\OOP\Pokemon_battle5\Pokemon_battle5\obj\Debug\net8.0\ref\Pokemon_battle5.dll

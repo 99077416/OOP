@@ -21,6 +21,8 @@ namespace Pokemon_battle4
             Weakness = weakness;
 
         }
+
+
         public abstract void Battlecry();
     }
 }

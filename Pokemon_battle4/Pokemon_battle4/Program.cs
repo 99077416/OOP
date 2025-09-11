@@ -2,13 +2,11 @@
 using Pokemon_battle4;
 
 
-//Console.WriteLine("trainer 1 name:");
-//string name1 = Console.ReadLine();
+Console.WriteLine("trainer 1 name:");
+string name1 = Console.ReadLine();
 
-//Console.WriteLine("trainer 2 name:");
-//string name2 = Console.ReadLine();
-string name1 = "a";
-string name2 = "B";
+Console.WriteLine("trainer 2 name:");
+string name2 = Console.ReadLine();
 
 Trainer trainer1 = new Trainer(name1);
 Trainer trainer2 = new Trainer(name2);
